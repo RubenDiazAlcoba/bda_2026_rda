@@ -1,4 +1,2 @@
 # practicas_bda
-
-## Tema 2
-* [Práctica 02.02: Uso de HDFS](ut02/pr0202/pr0202.md)
+Este es un repositorio donde se mostraran todas las practicas hechas durante el curso.
